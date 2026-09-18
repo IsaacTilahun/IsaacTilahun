@@ -1,20 +1,3 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/header-dark.png"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/header-light.png"
-  >
-  <img
-    alt="Isaac Tilahun"
-    src="./assets/header-light.png"
-    width="100%"
-  >
-</picture>
-
-<br><br>
 
 <picture>
   <source
